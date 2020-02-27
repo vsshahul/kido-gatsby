@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="320" viewBox="0 0 260 320">
+    <g fill="#F9F9F9" fill-rule="evenodd" opacity=".791" transform="translate(-60)">
+        <circle cx="70" cy="10" r="10"/>
+        <circle cx="130" cy="10" r="10"/>
+        <circle cx="190" cy="10" r="10"/>
+        <circle cx="250" cy="10" r="10"/>
+        <circle cx="310" cy="10" r="10"/>
+        <g transform="translate(0 60)">
+            <circle cx="70" cy="10" r="10"/>
+            <circle cx="130" cy="10" r="10"/>
+            <circle cx="190" cy="10" r="10"/>
+            <circle cx="250" cy="10" r="10"/>
+        </g>
+        <g transform="translate(0 120)">
+            <circle cx="70" cy="10" r="10"/>
+            <circle cx="130" cy="10" r="10"/>
+            <circle cx="190" cy="10" r="10"/>
+            <circle cx="250" cy="10" r="10"/>
+            <circle cx="310" cy="10" r="10"/>
+        </g>
+        <g transform="translate(0 180)">
+            <circle cx="70" cy="10" r="10"/>
+            <circle cx="130" cy="10" r="10"/>
+            <circle cx="190" cy="10" r="10"/>
+            <circle cx="250" cy="10" r="10"/>
+            <circle cx="310" cy="10" r="10"/>
+        </g>
+        <g transform="translate(0 240)">
+            <circle cx="70" cy="10" r="10"/>
+            <circle cx="130" cy="10" r="10"/>
+            <circle cx="190" cy="10" r="10"/>
+            <circle cx="250" cy="10" r="10"/>
+            <circle cx="310" cy="10" r="10"/>
+        </g>
+        <g transform="translate(0 300)">
+            <circle cx="70" cy="10" r="10"/>
+            <circle cx="130" cy="10" r="10"/>
+            <circle cx="190" cy="10" r="10"/>
+            <circle cx="250" cy="10" r="10"/>
+            <circle cx="310" cy="10" r="10"/>
+        </g>
+    </g>
+</svg>

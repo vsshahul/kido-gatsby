@@ -1,0 +1,49 @@
+$PrimaryFont : 'maaxR';
+.footer{
+  font-family: $PrimaryFont;
+  font-size:20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 344px;
+  background-color: #1e2d4f;
+
+  .center{
+    flex: 2;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: rgb(139, 139, 139);
+    text-align: right;
+  }
+  .nav{
+    display: flex;
+    flex-direction: row;
+    flex: 4 1;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  ul>li{
+    list-style-type: none;
+    padding-top: 15px;
+
+  }
+  .ul>li>a{
+    color: white;
+    font-family: $PrimaryFont;
+    opacity: .5;
+    text-decoration: none;
+    transition: .4s;
+  }
+  li>a:hover{
+    color: white;
+    opacity: 1;
+    text-decoration: underline;
+  }
+  .ul>li:first-child a{
+    color: white;
+    opacity: 1;
+  }
+
+}

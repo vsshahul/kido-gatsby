@@ -1,0 +1,38 @@
+$PrimaryFont : 'maaxR';
+$primary-color : #7632ff ;
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-self: start;
+
+  .logo{
+    padding: 17px 72px ;
+    flex: 1;
+  }
+  
+  .links{
+    margin-right:42px ;
+    text-decoration: none;
+    font-family: $PrimaryFont;
+    font-size: 16px;
+    font-weight: 600;
+    color: #2d2d2d;
+  }
+
+  .links:last-child{
+    margin-right: 77px;
+  }
+
+  .links.active{
+    color: $primary-color;
+  }
+  
+  .links.active:hover{
+    color: initial;
+  }
+
+  .links:hover{
+    color: $primary-color;
+  }
+}
