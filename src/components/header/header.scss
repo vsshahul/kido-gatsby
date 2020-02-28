@@ -5,11 +5,15 @@ $primary-color : #7632ff ;
     flex-direction: row;
     align-items: center;
     justify-self: start;
-
-  .logo{
-    padding: 17px 72px ;
-    flex: 1;
+    height: 125px;
+ 
+  .logoCont{
+    flex: auto;
+    .logo{
+      display: inline-block;
+    }  
   }
+  
   
   .links{
     margin-right:42px ;
