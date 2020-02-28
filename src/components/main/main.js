@@ -10,7 +10,6 @@ import nav from '../assets/nav.svg'
 import bm_1 from '../assets/bm_1.png'
 import bm_2 from '../assets/bm_2.png'
 import bm_3 from '../assets/bm_3.png'
-
 import bm_4 from '../assets/bm_4.jpg'
 import bm_5 from '../assets/bm_5.jpg'
 import bm_6 from '../assets/bm_6.jpg'
